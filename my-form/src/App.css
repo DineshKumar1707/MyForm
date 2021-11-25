@@ -1,0 +1,31 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #f2f2f2;
+}
+
+.formContainer {
+  width: 35rem;
+  height: 45rem;
+  background-color: #ffffff;
+  border-radius: 1%;
+  border: 1px solid #000000;
+}
+
+.formInputs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 5rem;
+}
+
+.profileImage {
+  width: 7rem;
+  height: 10rem;
+  background-color: #f2f2f2;
+  border: 1px solid #000000;
+  margin-right: 5rem;
+}
